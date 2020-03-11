@@ -1,3 +1,3 @@
 # A-Practical-Introduction-to-Deep-Learning
-This project is the work for my undergraduate thesis, it contains deep learning network implementations using PyTorch and Torchtext
-
+This project is based on a course created by Nvidia and the New York University. The goal was to modernize the code found in the labs by implementing them in Python using the PyTorch framework, that is why it is called “A Practical introduction to Deep Learning”. The Lab’s code was mostly implemented in Lua using the Torch framework. For the most part, because there was no direct mapping from Lua Torch to PyTorch, the solutions implemented in the project had to be re-written without any help from the Lab’s implemented solutions.
+There are many types of networks, training methods and problems that are covered in this project, like simple Classification problems, Semi-Supervised Networks, GANs, Language Modelling and Sentence Classification which we will discuss later
